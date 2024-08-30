@@ -1,4 +1,5 @@
 # Highlight-Removal-based-on-Pesudo-image-bases-fusion
+Note: The source code will be uploaded before September 5.
 
 ## Introduction
 > [Single Image Highlight Removal via Innovative Pseudo Image Bases Fusion with a Dual-Network]\
