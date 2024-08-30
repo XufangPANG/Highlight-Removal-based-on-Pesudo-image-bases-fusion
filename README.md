@@ -1,0 +1,1 @@
+# Highlight-Removal-based-on-Pesudo-image-bases-fusion
