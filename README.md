@@ -47,11 +47,11 @@ python test.py
 ## Highlight Removal Results
 | Methods\Metrics  | PSNR↑ | SSIM↑ | 
 | :----: | :-----: | :------: |
-|Without highlight detection and Ground Truth masks|35.18|	0.98|
-|Input Ground Truth masks|	36.17|	0.98|
+|Without highlight detection|35.18|	0.97|
+|Input Ground Truth masks|	36.17|	0.99|
 |Separately trained|        34.91|	0.98|
-|With pixel-wise fusion|	35.85|	0.98|
-|Ours|                      35.76|	0.98|
+|With pixel-wise fusion|	35.81|	0.98|
+|Ours|                      35.85|	0.99|
 
 ## visual 
 
